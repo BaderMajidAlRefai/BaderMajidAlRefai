@@ -1,8 +1,6 @@
 # Hi, I'm Bader 👋
-
 MIS student at Gulf University for Science and Technology (GUST), self-taught software developer, and Linux enthusiast.
 I enjoy proving to myself that with enough sweat, I can learn anything and build the ideas I imagine.
----
 ## Currently Learning
 - Avalonia UI
 - Django
