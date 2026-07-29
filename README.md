@@ -7,19 +7,19 @@ I enjoy proving to myself that with enough sweat, I can learn anything and build
 - FastAPI
 - React
 
-### Languages
+## Languages
 - Python
 - TypeScript
 - C#
 
-### Frameworks & Libraries
+## Frameworks & Libraries
 - FastAPI
 - Django
 - React
 - Flask
 - Avalonia UI
 
-### Tools
+## Tools
 - Git
 - GitHub
 - Linux (Arch)
@@ -29,3 +29,5 @@ I enjoy proving to myself that with enough sweat, I can learn anything and build
 - Desktop Application Development
 - Linux
 
+## Github Stats
+[![Bader's GitHub stats](https://github-stats-extended.vercel.app/api?username=BaderMajidAlRefai)](https://github.com/stats-organization/github-stats-extended)
