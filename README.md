@@ -30,7 +30,6 @@ I enjoy proving to myself that with enough sweat, I can learn anything and build
 - Linux
 
 ## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BaderMajidAlRefai&show_icons=true&theme=github_dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BaderMajidAlRefai&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BaderMajidAlRefai&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BaderMajidAlRefai&layout=compact&theme=github_dark)
