@@ -29,7 +29,3 @@ I enjoy proving to myself that with enough sweat, I can learn anything and build
 - Desktop Application Development
 - Linux
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BaderMajidAlRefai&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BaderMajidAlRefai&layout=compact&theme=github_dark)
