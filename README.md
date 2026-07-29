@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Bader 👋
 
-<!--
-**BaderMajidAlRefai/BaderMajidAlRefai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MIS student at Gulf University for Science and Technology (GUST), self-taught software developer, and Linux enthusiast.
+I enjoy proving to myself that with enough sweat, I can learn anything and build the ideas I imagine.
+---
+## Currently Learning
+- Avalonia UI
+- Django
+- FastAPI
+- React
 
-Here are some ideas to get you started:
+### Languages
+- Python
+- TypeScript
+- C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frameworks & Libraries
+- FastAPI
+- Django
+- React
+- Flask
+- Avalonia UI
+
+### Tools
+- Git
+- GitHub
+- Linux (Arch)
+
+## Interests
+- Backend Development
+- Desktop Application Development
+- Linux
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BaderMajidAlRefai&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BaderMajidAlRefai&layout=compact)
